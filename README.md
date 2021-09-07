@@ -53,11 +53,11 @@ git clone https://github.com/vanisbala/eye-movement
 
 Thanks to MITxPRO for giving me the opportunity to work on this project. 
 
-The wonderful MIT professors who always gives simple easy understand explanations for any complex topic,
+The wonderful MIT professors who always gives simple, easy to  understand explanations for any complex topic,
 - Abel Sanchez
 - John Williams  
 
-My gratitudes to our learning facilitators, for their guidance throughout the project
+My gratitudes to our learning facilitators, for their guidance throughout the project.
 - Carolina Barreiro
 - Greg Lindeman
 - Puneet Saraswat
