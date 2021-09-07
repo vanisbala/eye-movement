@@ -2,7 +2,7 @@
 It's a fun project which has a pair of eyes with eyeballs that move in accordance to the mouse movement.
 
 **What I Learned**
-- Capturing moving mouse coordinates and mapping it in a focussed region to move an object using onmousemove
+- Capturing the movements of the mouse through its coordinates and mapping it in a focussed region to move an object(eyeball) using 'onmousemove' 
 
 **eyes**
 
@@ -10,8 +10,7 @@ It's a fun project which has a pair of eyes with eyeballs that move in accordanc
 
 ## Description
 
-- The eyeballs in each of the eye follows the movement of the mouse. Its being accomplished by onmousemove where the mouse \
-coordinates are captured and mapped to the inner eye region so that the eyeball moves in accordance with the mouse.
+- The eyeballs in each of the eye follows the movement of the mouse. Its being accomplished by onmousemove where the mouse coordinates are captured and mapped to the inner eye region so that the eyeball moves in accordance with the mouse.
 
 ## Installation
 
@@ -19,9 +18,9 @@ coordinates are captured and mapped to the inner eye region so that the eyeball 
 git clone https://github.com/vanisbala/eye-movement
 - Open eye-movement project in VScode, go to index.html, right click and select 'open in default browser'.
 - The project output will open in your browser.
-- Click on Add pacman button to add one or more pacman images
-- Click on start game button to make them move
-- Click on stop button to stop the movement of Pac-Man images
+- Move the mouse anywhere on the screen.
+- Observe the movement of the eyeballs.
+- It will just move in accordance with the mouse movements.
 ### 
 ![pacmen-factory demo](./images/eyes.gif)
 
@@ -37,10 +36,9 @@ git clone https://github.com/vanisbala/eye-movement
 - [See live Site](https://vanisbala.github.io/eye-movement/)
 
 
-
 ## Roadmap
 
-- Closing the eyes when the mouse moves and touches the bottom of the window.
+- Closing the eyes when the mouse moves and touches the bottom edge of the window. Then, open the eyes once the mouse moves away from the bottom edge.
 
 ## Support
 
@@ -53,4 +51,14 @@ git clone https://github.com/vanisbala/eye-movement
 
 ## Credits
 
-Thanks to MITxPRO for giving me the opportunity to work on this project.
+Thanks to MITxPRO for giving me the opportunity to work on this project. 
+
+The wonderful MIT professors who always gives simple easy understand explanations for any complex topic,
+- Abel Sanchez
+- John Williams  
+
+My gratitudes to our learning facilitators, for their guidance throughout the project
+- Carolina Barreiro
+- Greg Lindeman
+- Puneet Saraswat
+
